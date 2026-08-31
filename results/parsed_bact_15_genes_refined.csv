@@ -1,0 +1,16 @@
+raw_gene_id,official_symbol,description,clean_display
+AMA42146.1,FecB,ABC transporter substrate-binding protein,AWJ11_07035 (FecB)
+AMA42391.1,ydhL,Predicted Fe-S protein YdhL (DUF1289 family),AWJ11_08425 (ydhL)
+AMA41134.1,AWJ11_00985,hypothetical protein AWJ11_00985,AWJ11_00985
+AWJ11_16000,IS6-transposase,IS6 family transposase (plasmid),AWJ11_16000 (tnpA)
+AWJ11_16505,yjbL,Pentapeptide repeat-containing protein YjbL,AWJ11_16505 (yjbL)
+lanM,lanM,Penta-EF hand calcium-binding protein,lanM (EF-hand)
+AMA41680.1,AWJ11_03920,,AWJ11_03920
+AMA42357.1,nucA,DNA/RNA non-specific endonuclease,AMA42357.1 (nucA)
+dut,dut,Deoxyuridine triphosphatase (dUTPase),dut
+AMA41292.1,ntrY,Sensor histidine kinase NtrY (Two-component system),AWJ11_01955 (ntrY)
+AMA43084.1,AWJ11_12405,,AWJ11_12405
+hisS,hisS,Histidine--tRNA ligase,hisS
+AMA42566.1,AWJ11_09310,,AWJ11_09310
+AMA42066.1,deoC,2-deoxyribose-5-phosphate aldolase (DERA),AMA42066.1 (deoC)
+murF,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,murF 

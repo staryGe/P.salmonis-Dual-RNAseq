@@ -1,0 +1,16 @@
+"gene","STRING_id","gene_symbol","description"
+"AWJ11_04260","1238.AWJ11_04260","AMA41680.1","Hypothetical protein; Derived by automated computational analysis using gene prediction method: Protein Homology."
+"AWJ11_08220","1238.AWJ11_08220","AMA42357.1","DNA/RNA endonuclease; Derived by automated computational analysis using gene prediction method: Protein Homology."
+"AWJ11_03785","1238.AWJ11_03785","lanM","Hypothetical protein; Derived by automated computational analysis using gene prediction method: GeneMarkS+."
+"AWJ11_06540","1238.AWJ11_06540","AMA42066.1","2-deoxyribose-5-phosphate aldolase; Catalyzes a reversible aldol reaction between acetaldehyde and D-glyceraldehyde 3-phosphate to generate 2-deoxy-D-ribose 5- phosphate."
+"AWJ11_08425","1238.AWJ11_08425","AMA42391.1","Hypothetical protein; Derived by automated computational analysis using gene prediction method: Protein Homology."
+"AWJ11_09470","1238.AWJ11_09470","AMA42566.1","Hypothetical protein; Derived by automated computational analysis using gene prediction method: GeneMarkS+."
+"AWJ11_00985","1238.AWJ11_00985","AMA41134.1","Hypothetical protein; Derived by automated computational analysis using gene prediction method: GeneMarkS+."
+"AWJ11_12405","1238.AWJ11_12405","AMA43084.1","Hypothetical protein; Derived by automated computational analysis using gene prediction method: GeneMarkS+."
+"AWJ11_14890","1238.AWJ11_14890","dut","Deoxyuridine 5'-triphosphate nucleotidohydrolase; This enzyme is involved in nucleotide metabolism: it produces dUMP, the immediate precursor of thymidine nucleotides and it decreases the intracellular concentration of dUTP so that uracil cannot be incorporated into DNA; Belongs to the dUTPase family."
+"AWJ11_15830","1238.AWJ11_15830","murF","UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase; Involved in cell wall formation. Catalyzes the final step in the synthesis of UDP-N-acetylmuramoyl-pentapeptide, the precursor of murein; Belongs to the MurCDEF family. MurF subfamily."
+"AWJ11_16000",NA,NA,NA
+"AWJ11_16505",NA,NA,NA
+"AWJ11_01955","1238.AWJ11_01955","AMA41292.1","Hypothetical protein; Derived by automated computational analysis using gene prediction method: GeneMarkS+."
+"AWJ11_05110","1238.AWJ11_05110","hisS","histidine--tRNA ligase; Derived by automated computational analysis using gene prediction method: Protein Homology."
+"AWJ11_07035","1238.AWJ11_07035","AMA42146.1","Hypothetical protein; Derived by automated computational analysis using gene prediction method: GeneMarkS+."

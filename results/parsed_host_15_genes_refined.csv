@@ -1,0 +1,16 @@
+raw_gene_id,official_symbol,description,human_ortho,mouse_ortho,zebrafish_ortho,display_symbol,human_symbol,clean_display
+LOC106572356,LOC106572356,disks large-associated protein 4,disks large-associated protein 4,disks large-associated protein 4,disks large-associated protein 4,LOC106572356 (disks large-associat),DLGAP4,LOC106572356 (DLGAP4)
+LOC106578043,LOC106578043,H(+)/Cl(-) exchange transporter 5,H(+)/Cl(-) exchange transporter 5,H(+)/Cl(-) exchange transporter 5,H(+)/Cl(-) exchange transporter 5,LOC106578043 (H(+)/Cl(-) exchange ),CLCN5,LOC106578043 (CLCN5)
+LOC106604056,LOC106604056,large neutral amino acids transporter small subunit 4,large neutral amino acids transporter small subunit 4,large neutral amino acids transporter small subunit 4,large neutral amino acids transporter small subunit 4,LOC106604056 (large neutral amino ),LAT4,LOC106604056 (LAT4)
+grnb,grnb,grnb protein,GRNB,Grnb,grnb,grnb,GRN,LOC106569878 (GRN)
+LOC106569878,LOC106569878,atrial natriuretic peptide receptor 1,atrial natriuretic peptide receptor 1,atrial natriuretic peptide receptor 1,atrial natriuretic peptide receptor 1,LOC106569878 (atrial natriuretic p),NPR1,LOC106569878 (NPR1)
+LOC106611061,LOC106611061,latent-transforming growth factor beta-binding protein 2,latent-transforming growth factor beta-binding protein 2,latent-transforming growth factor beta-binding protein 2,latent-transforming growth factor beta-binding protein 2,LOC106611061 (latent-transforming ),LTBP2,LOC106611061 (LTBP2)
+LOC106589425,LOC106589425,latent-transforming growth factor beta-binding protein 2,latent-transforming growth factor beta-binding protein 2,latent-transforming growth factor beta-binding protein 2,latent-transforming growth factor beta-binding protein 2,LOC106589425 (latent-transforming ),LTBP2,LOC106589425 (LTBP2)
+arc1a,arc1a,arc1a protein,ARC1A,Arc1a,arc1a,arc1a,ARC,LOC106601234 (ARC)
+LOC106572390,LOC106572390,tumor necrosis factor receptor superfamily member 9,tumor necrosis factor receptor superfamily member 9,tumor necrosis factor receptor superfamily member 9,tumor necrosis factor receptor superfamily member 9,LOC106572390 (tumor necrosis facto),TNFRSF9,LOC106572390 (TNFRSF9)
+aacs,aacs,aacs protein,AACS,Aacs,aacs,aacs,AACS,AACS
+LOC106610362,LOC106610362,dickkopf-related protein 2,dickkopf-related protein 2,dickkopf-related protein 2,dickkopf-related protein 2,LOC106610362 (dickkopf-related pro),DKK2,LOC106610362 (DKK2)
+LOC106608700,LOC106608700,dickkopf-related protein 1,dickkopf-related protein 1,dickkopf-related protein 1,dickkopf-related protein 1,LOC106608700 (dickkopf-related pro),DKK1,LOC106608700 (DKK1)
+LOC106568950,LOC106568950,gamma-interferon-inducible lysosomal thiol reductase,gamma-interferon-inducible lysosomal thiol reductase,gamma-interferon-inducible lysosomal thiol reductase,gamma-interferon-inducible lysosomal thiol reductase,LOC106568950 (gamma-interferon-ind),GILT,LOC106568950 (GILT)
+LOC106609471,LOC106609471,V-type proton ATPase subunit E 1,V-type proton ATPase subunit E 1,V-type proton ATPase subunit E 1,V-type proton ATPase subunit E 1,LOC106609471 (V-type proton ATPase),ATP6V1E1,LOC106609471 (ATP6V1E1)
+pdlim3b,pdlim3b,pdlim3b protein,PDLIM3B,Pdlim3b,pdlim3b,pdlim3b,PDLIM3,LOC106605678 (PDLIM3)
